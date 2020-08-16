@@ -1,5 +1,5 @@
-# free-design-resources
-A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
+# Free Design Resources
+### A collection of websites for free UI design materials for Sketch, Adobe XD, Figma, and other design tools.
 
 I tried my best to maintain this repository and keep it up-to-date but if you spot any broken link or a resource which isn't listed, please, feel free to contact me or file a bug.
 
@@ -25,4 +25,35 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 # Photoshop
 [UIXLibrary Photoshop Freebies](https://uixlibrary.com/resources/created/in/photoshop) - Free Photoshop design resources for your growing Design Projects.
 
-# Figma
+[Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma.
+
+[Psddd](http://www.psddd.co/) - Beautiful hand picked freebies from the Dribbble community.
+
+[365PSD](http://365psd.com/) - 365PSD.com is a collection of free vector images, logo designs and PSD graphics.
+
+[Freebiesbug](http://freebiesbug.com/psd-freebies/) - An awesome collection of free PSD design resources to get you started.
+
+[Photoshoplr](http://madebyvadim.tumblr.com/) - Best plugins, scripts & Photoshop extensions in one place.
+
+[PSD Repo](https://psdrepo.com/) - PSD Repo is an ever-growing collection of quality PSD files designed by talented creatives.
+
+
+# Icons
+[UIXLibrary Icons](https://uixlibrary.com/resources/of/category/icons) - Free vector icons for your next design projects.
+
+[Noun Project](https://thenounproject.com/) - The Noun Project community is building a visual language that anyone can use and understand. New icons are added daily.
+
+[IconStore](https://iconstore.co/) - A library of free vector icons for personal and commercial projects, designed by first-class designers.
+
+[Material icons](https://design.google.com/icons/) - Material icons are beautifully crafted, delightful, and easy to use in your web, Android, and iOS projects.
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) - Font Awesome, the iconic font and CSS framework. 605 icons and counting.
+
+[iconmonstr](http://iconmonstr.com/) - 3413+ free simple icons for your next project.
+
+[Icons8](https://icons8.com/) - Single icon pack with 23,500 free icons. Each icon is in 5 flat styles. Download as PNG, SVG, or as a font.
+
+[Flaticon](http://www.flaticon.com/) - 112,500+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
+
+
+
