@@ -4,7 +4,7 @@
 I tried my best to maintain this repository and keep it up-to-date but if you spot any broken link or a resource which isn't listed, please, feel free to contact me or file a bug.
 
 # Sketch
-[UIXLibrary Sketch Freebies](https://uixlibrary.com/resources/created/in/sketch) - Free Sketch design resources for your growing Design Projects.
+[UIXLibrary](https://uixlibrary.com) [Sketch Freebies](https://uixlibrary.com/resources/created/in/sketch) - Free Sketch design resources for your growing Design Projects.
 
 [Sketch Add Resources](https://www.sketchappsources.com/) - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch.
 
@@ -23,7 +23,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 [Sketch Repo](https://sketchrepo.com/) - Sketch Repo is a great place to discover Sketch App resources for your design project.
 
 # Photoshop
-[UIXLibrary Photoshop Freebies](https://uixlibrary.com/resources/created/in/photoshop) - Free Photoshop design resources for your growing Design Projects.
+[UIXLibrary](https://uixlibrary.com) [Photoshop Freebies](https://uixlibrary.com/resources/created/in/photoshop) - Free Photoshop design resources for your growing Design Projects.
 
 [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma.
 
@@ -39,7 +39,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 
 
 # Icons
-[UIXLibrary Icons](https://uixlibrary.com/resources/of/category/icons) - Free vector icons for your next design projects.
+[UIXLibrary](https://uixlibrary.com) [Free Icons](https://uixlibrary.com/resources/of/category/icons) - Free vector icons for your next design projects.
 
 [Noun Project](https://thenounproject.com/) - The Noun Project community is building a visual language that anyone can use and understand. New icons are added daily.
 
@@ -54,6 +54,25 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 [Icons8](https://icons8.com/) - Single icon pack with 23,500 free icons. Each icon is in 5 flat styles. Download as PNG, SVG, or as a font.
 
 [Flaticon](http://www.flaticon.com/) - 112,500+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
+# Fonts
+[UIXLibrary](https://uixlibrary.com) [Free Fonts](https://uixlibrary.com/resources/search/by/fonts) - Free fonts for your next website projects.
+
+[Font Squirrel](https://www.fontsquirrel.com/) - Font Squirrel scours the internet in search of FREE, highest-quality, designer-friendly, commercial-use fonts and presents them for easy downloading.
+
+[Google Fonts](https://www.google.com/fonts) - Google Fonts makes it quick and easy for everyone to use web fonts, including professional designers and developers.
+
+[The League of Moveable Type](https://www.theleagueofmoveabletype.com/) - The League of Moveable Type is the first ever open-source type foundry, dedicated to bringing the most well-made free and open-source typography to the people.
+
+[DaFont](http://www.dafont.com/) - Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
+
+[Lost Type Co-op](http://www.losttype.com/) - Lost Type is a Pay-What-You-Want type foundry, with a collection of over 50 different typefaces from contributors all over the world.
+
+[Use & Modify](http://usemodify.com/) - A personal selection of open source beautiful, classy, punk, professional, incomplete, weird typefaces.
+
+
+
+
+
 
 
 
