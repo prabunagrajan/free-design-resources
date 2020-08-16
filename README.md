@@ -35,7 +35,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 
 
 # Adobe XD
-### [UIXLibrary](https://uixlibrary.com) [Adobe XD](https://uixlibrary.com/resources/created/in/adobe-xd) - Free Adobe XD design resources for your growing Design Projects.
+### [UIXLibrary](https://uixlibrary.com) [Adobe XD Freebies](https://uixlibrary.com/resources/created/in/adobe-xd) - Free Adobe XD design resources for your growing Design Projects.
 
 [UI Store Adobe XD](https://www.uistore.design/types/adobe-xd/) - 110 Free Adobe XD Design Resources
 
