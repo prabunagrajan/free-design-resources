@@ -4,7 +4,7 @@
 I tried my best to maintain this repository and keep it up-to-date but if you spot any broken link or a resource which isn't listed, please, feel free to contact me or file a bug.
 
 # Sketch
-### [UIXLibrary](https://uixlibrary.com) [Sketch Freebies](https://uixlibrary.com/resources/created/in/sketch) - Free Sketch design resources for your growing Design Projects.
+### [UIXLibrary](https://uixlibrary.com/resources/created/in/sketch?src=github) [Sketch Freebies](https://uixlibrary.com/resources/created/in/sketch?src=github) - Free Sketch design resources for your growing Design Projects.
 
 [Sketch Add Resources](https://www.sketchappsources.com/) - Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch.
 
@@ -23,7 +23,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 [Sketch Repo](https://sketchrepo.com/) - Sketch Repo is a great place to discover Sketch App resources for your design project.
 
 # Figma
-### [UIXLibrary](https://uixlibrary.com) [Figma Freebies](https://uixlibrary.com/resources/created/in/figma) - Free Figma design resources for your growing Design Projects.
+### [UIXLibrary](https://uixlibrary.com/resources/created/in/figma?src=github) [Figma Freebies](https://uixlibrary.com/resources/created/in/figma?src=github) - Free Figma design resources for your growing Design Projects.
 
 [Figma Resources](https://www.figma.com/resources/) - Resources by and for the Figma community, to help you learn and accelerate your workflow.
 
@@ -35,7 +35,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 
 
 # Adobe XD
-### [UIXLibrary](https://uixlibrary.com) [Adobe XD Freebies](https://uixlibrary.com/resources/created/in/adobe-xd) - Free Adobe XD design resources for your growing Design Projects.
+### [UIXLibrary](https://uixlibrary.com/resources/created/in/adobe-xd?src=github) [Adobe XD Freebies](https://uixlibrary.com/resources/created/in/adobe-xd?src=github) - Free Adobe XD design resources for your growing Design Projects.
 
 [UI Store Adobe XD](https://www.uistore.design/types/adobe-xd/) - 110 Free Adobe XD Design Resources
 
@@ -46,7 +46,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 [XD Files](https://xdfile.com/) - Adobe XD Files, free Resources, UI kits & Templates
 
 # Photoshop
-### [UIXLibrary](https://uixlibrary.com) [Photoshop Freebies](https://uixlibrary.com/resources/created/in/photoshop) - Free Photoshop design resources for your growing Design Projects.
+### [UIXLibrary](https://uixlibrary.com/resources/created/in/photoshop?src=github) [Photoshop Freebies](https://uixlibrary.com/resources/created/in/photoshop?src=github) - Free Photoshop design resources for your growing Design Projects.
 
 [Freebie Supply](https://freebiesupply.com/) - Free, high quality design resources for Photoshop, Sketch, Illustrator, Adobe XD and Figma.
 
@@ -62,7 +62,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 
 
 # Icons
-### [UIXLibrary](https://uixlibrary.com) [Free Icons](https://uixlibrary.com/resources/of/category/icons) - Free vector icons for your next design projects.
+### [UIXLibrary](https://uixlibrary.com/resources/of/category/icons?src=github) [Free Icons](https://uixlibrary.com/resources/of/category/icons?src=github) - Free vector icons for your next design projects.
 
 [Noun Project](https://thenounproject.com/) - The Noun Project community is building a visual language that anyone can use and understand. New icons are added daily.
 
@@ -78,7 +78,7 @@ I tried my best to maintain this repository and keep it up-to-date but if you sp
 
 [Flaticon](http://www.flaticon.com/) - 112,500+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT. Thousands of free icons in the largest database of free vector icons!
 # Fonts
-### [UIXLibrary](https://uixlibrary.com) [Free Fonts](https://uixlibrary.com/resources/search/by/fonts) - Free fonts for your next website projects.
+### [UIXLibrary](https://uixlibrary.com/resources/search/by/fonts?src=github) [Free Fonts](https://uixlibrary.com/resources/search/by/fonts?src=github) - Free fonts for your next website projects.
 
 [Font Squirrel](https://www.fontsquirrel.com/) - Font Squirrel scours the internet in search of FREE, highest-quality, designer-friendly, commercial-use fonts and presents them for easy downloading.
 
